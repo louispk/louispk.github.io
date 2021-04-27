@@ -2,6 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/me_1.jpg
+  alt: /assets/img/me_1.jpg
 ---
 
 <p>
