@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "/bay" # the subpath of the site
 url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/me_1.jpg
 #google_analytics: "UA-121636368-3"
 
 header:
@@ -14,31 +14,21 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Blog
+    - name: Bicycles
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: louis.philippe.kiesewetter@gmail.com
+      link: mailto:louis.philippe.kiesewetter@gmail.com
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+    - name: Instagram
+      link: http://instagram.com/louisphk
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.linkedin.com/in/louis-kiesewetter-13b618210/
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/louispk
 
 # Build settings
 markdown: kramdown
