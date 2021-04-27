@@ -1,14 +1,11 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/me_1.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hello! Welcome to my website. Apart from riding bikes I produce Code in various languages and analyse data. Please feel free to contact me through any of the linked methods!
 </p>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
