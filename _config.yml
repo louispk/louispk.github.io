@@ -10,6 +10,7 @@ og_image: /assets/img/me_1_small_2.png
 #google_analytics: "UA-121636368-3"
 
 header:
+  site-title: Louis Kiesewetter
   pages:
     - name: Home
       slug: /
