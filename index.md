@@ -6,7 +6,10 @@ profile_picture:
 ---
 
 <p>
-  Hello! Welcome to my website. Apart from riding bikes I produce Code in various languages and analyse data. 
+  Hello! Welcome to my website. 
+  </p>
+  <p>
+  Apart from riding bikes I do some code stuff and analyse data. 
  </p>
  <p>
   Please feel free to contact me through any of the links below!
