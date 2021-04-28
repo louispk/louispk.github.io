@@ -24,13 +24,13 @@ footer:
       value: louis.philippe.kiesewetter@gmail.com
       link: mailto:louis.philippe.kiesewetter@gmail.com
   follow:
-    - name: Facebook
-      link: http://instagram.com/louisphk
+
     - name: LinkedIn
       link: https://www.linkedin.com/in/louis-kiesewetter-13b618210/
     - name: GitHub
       link: http://github.com/louispk
-
+    - name: Facebook
+      link: http://instagram.com/louisphk
 # Build settings
 markdown: kramdown
 sass:
