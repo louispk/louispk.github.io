@@ -4,5 +4,5 @@ title: Bicycles
 slug: /bicycles
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+Here are some pics from various cycling trips as well as other cycling related stuff.
 <br />
