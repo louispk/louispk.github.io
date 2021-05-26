@@ -15,7 +15,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: GPT-2 is well known for its text-creation prowess as well as zero-shot capabilities. In this work, Asmir Muminovic and I implemented a binary and multi-class classification head for GPT-2 and trained it upon a dataset containing medical abstracts. With trained parameters, we were able to achieve impressive zero-shot results in both binary and multi-classification tasks, with the results being constrained due to a lack of capable hardware.
 ---
 Here you can find some more information about me, including my <a href="https://louispk.github.io/assets/CV_Louis_Kiesewetter.pdf" target="_blank">CV</a>. 
 
