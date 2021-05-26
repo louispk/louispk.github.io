@@ -9,10 +9,6 @@ items:
       src: /assets/img/bike2.jpg
       alt: water
       
-    - title: Sunshine riding
-    image:
-      src: /assets/img/bike1.jpg
-      alt: water
       
       
       
