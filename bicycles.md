@@ -8,7 +8,14 @@ items:
     image:
       src: /assets/img/bike2.jpg
       alt: water
-      
+
+
+
+
+  - title: Sunbiking
+    image:
+      src: /assets/img/bike1.jpg
+      alt: water
       
       
       
