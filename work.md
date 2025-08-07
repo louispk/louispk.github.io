@@ -1,6 +1,6 @@
 ---
 layout: work
-title: About Me
+title: Work
 slug: /work
 items:
   - title: Internet Censorship in the United Kingdom
@@ -17,8 +17,3 @@ items:
       alt: sand
     description: GPT-2 is well known for its text-creation prowess as well as zero-shot capabilities. In this work, Asmir Muminovic and I implemented a binary and multi-class classification head for GPT-2 and trained it upon a dataset containing medical abstracts. With trained parameters, we were able to achieve impressive zero-shot results in both binary and multi-classification tasks, with the results being constrained due to a lack of capable hardware.
 ---
-Here you can find some more information about me, including my <a href="https://louispk.github.io/assets/CV_Louis_Kiesewetter.pdf" target="_blank">CV</a>. 
-
-As a data scientist I like to use my skills for Good, with research focusing on digital rights, Natural language processing and Transformer-based Neural Nets.
-<br />
-<br />

@@ -6,12 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Hello! Welcome to my website. 
-  </p>
-  <p>
-  Apart from riding bikes I do some code stuff and analyse data. 
- </p>
- <p>
-  Please feel free to contact me through any of the links below!
+  Hello! I'm Louis, a Senior Data Scientist at a Fin-tech startup. Welcome to my personal website.
 </p>
-
+<p>
+  I specialize in leveraging data to drive business insights and build intelligent systems. My areas of expertise include machine learning, natural language processing, and statistical analysis.
+</p>
+<p>
+  Feel free to explore my work and get in touch.
+</p>

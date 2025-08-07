@@ -14,6 +14,8 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: About Me
+      slug: /about
     - name: Work
     - name: Bicycles
 
@@ -21,8 +23,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: kiesewel@hu-berlin.de
-      link: mailto:kiesewel@hu-berlin.de
+      value: louispk@proton.me
+      link: mailto:louispk@proton.me
   follow:
 
     - name: LinkedIn
